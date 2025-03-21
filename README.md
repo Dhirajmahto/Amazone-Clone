@@ -11,5 +11,5 @@ This project is a front-end clone of the Amazon website, built using HTML and CS
 Feel free to clone, modify, and contribute!
 
 ### Project Link
-[View the project here](http://127.0.0.1:5500/index.html)
+[View the project here](https://courageous-lolly-5d487c.netlify.app/)
 
